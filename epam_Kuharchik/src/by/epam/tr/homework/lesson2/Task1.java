@@ -2,6 +2,12 @@ package by.epam.tr.homework.lesson2;
 
 import java.util.Scanner;
 
+/**
+ * Make a linear program that prints true if the specified statement is true,
+ * and false otherwise: The sum of the first two digits of a given four-digit
+ * number is equal to the sum of its last two digits.
+ */
+
 public class Task1 {
 
 	public static boolean calculation(int n) {

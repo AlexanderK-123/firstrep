@@ -2,13 +2,6 @@ package by.epam.tr.homework.lesson2;
 
 import java.util.Scanner;
 
-/**
- * —оставить линейную программу, печатающую значение true, если указанное
- * высказывание €вл€етс€ истинным, и false Ч в противном случае: —умма двух
- * первых цифр заданного четырехзначного числа равна сумме двух его последних
- * цифр.
- */
-
 public class Task1 {
 
 	public static boolean calculation(int n) {

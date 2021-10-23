@@ -26,7 +26,7 @@ public class Task1 {
 	}
 
 	public static void main(String[] args) {
-		showArray(createArray(6));
+		showArray(createArray(2));
 		showArray(calc(createArray(6)));
 	}
 
